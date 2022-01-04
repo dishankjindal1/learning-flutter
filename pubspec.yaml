@@ -41,6 +41,9 @@ dependencies:
   bloc: any
   flutter_bloc: any
   
+  # Logger
+  logger: any
+
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
@@ -56,10 +59,6 @@ dev_dependencies:
     sdk: flutter
   mocktail: any
   bloc_test: any
-
-  # Logger
-  logger: any
-
 
 
 
